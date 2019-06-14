@@ -1,7 +1,7 @@
 ![](i/logo_lg.png) Welcome to CiviCRM
 =====================================
 
-About
+About US
 -----
 
 CiviCRM is a constituent relationship management system designed to
