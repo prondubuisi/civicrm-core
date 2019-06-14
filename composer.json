@@ -64,7 +64,8 @@
     "katzien/php-mime-type": "2.1.0"
   },
   "require-dev": {
-    "cache/integration-tests": "dev-master"
+    "cache/integration-tests": "dev-master",
+    "vimeo/psalm": "dev-master"
   },
   "scripts": {
     "post-install-cmd": [
