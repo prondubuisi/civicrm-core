@@ -16,7 +16,6 @@
         <file name="bin" />
         <file name="civicrm-version.php" />
         <file name="distmaker" />
-        <file name="ext" />
         <file name="extern" />
         <file name="install" />
         <file name="packages" />
@@ -26,7 +25,6 @@
         <file name="xml" />
         <ignoreFiles>
             <directory name="vendor" />
-            <directory name="packages" />
         </ignoreFiles>
     </projectFiles>
 
