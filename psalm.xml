@@ -18,7 +18,6 @@
         <file name="distmaker" />
         <file name="extern" />
         <file name="install" />
-        <file name="packages" />
         <file name="settings" />
         <file name="sql" />
         <file name="tools" />
