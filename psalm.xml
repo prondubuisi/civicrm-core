@@ -7,7 +7,6 @@
 >
     <projectFiles>
         <directory name="." />
-        <directory name="packages" />
         <directory name="tests/phpunit" />
         <file name="CRM" />
         <file name="Civi" />
@@ -27,6 +26,7 @@
         <file name="xml" />
         <ignoreFiles>
             <directory name="vendor" />
+            <directory name="packages" />
         </ignoreFiles>
     </projectFiles>
 
