@@ -1,4 +1,4 @@
-![](i/logo_lg.png) Welcome to CiviCRM Psalm Test Branchhfhfhfh jjjjj
+![](i/logo_lg.png) Welcome to CiviCRM Psalm Test Branchhfhfhfh
 =====================================================================
 
 About
