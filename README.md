@@ -1,5 +1,5 @@
-![](i/logo_lg.png) Welcome to CiviCRM Test Branch  jjjjgjgj
-============================================================
+![](i/logo_lg.png) Welcome to CiviCRM Test Branch  
+=================================================
 
 About
 -----
