@@ -1,4 +1,4 @@
-![](i/logo_lg.png) Welcome to CiviCRM Psalm Test 
+![](i/logo_lg.png) Welcome to CiviCRM Psalm 
 =====================================================================
 
 About
