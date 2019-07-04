@@ -1,5 +1,5 @@
-![](i/logo_lg.png) Welcome to CiviCRM
-=====================================
+![](i/logo_lg.png) Welcome to CiviCRM Test Repo
+==============================================
 
 About
 -----
