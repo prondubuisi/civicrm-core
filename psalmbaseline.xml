@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <files psalm-version="3.4.0@99e6cd819f829babf50c5852d6f62d40b1fec9d9">
   
-  <file src="CRM/ACL/DAO/ACL.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Core_DAO</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/DAO/Cache.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Core_DAO</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/DAO/EntityRole.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Core_DAO</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/Form/ACL.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Admin_Form</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/Form/ACLBasic.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Admin_Form</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/Form/EntityRole.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Admin_Form</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/Form/WordPress/Permissions.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Core_Form</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/Page/ACL.php">
-    <MissingDependency occurrences="2">
-      <code>CRM_Core_DAO</code>
-      <code>CRM_Core_DAO</code>
-    </MissingDependency>
-    <MoreSpecificImplementedParamType occurrences="1">
-      <code>$mode</code>
-    </MoreSpecificImplementedParamType>
-  </file>
-  <file src="CRM/ACL/Page/ACLBasic.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_Core_DAO</code>
-    </MissingDependency>
-    <MoreSpecificImplementedParamType occurrences="1">
-      <code>$mode</code>
-    </MoreSpecificImplementedParamType>
-  </file>
+  
   <file src="CRM/ACL/Page/EntityRole.php">
     <MissingDependency occurrences="2">
       <code>CRM_ACL_BAO_Cache</code>
