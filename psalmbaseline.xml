@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <files psalm-version="3.4.0@99e6cd819f829babf50c5852d6f62d40b1fec9d9">
-  <file src="CRM/ACL/API.php">
-    <MissingDependency occurrences="3">
-      <code>CRM_ACL_BAO_ACL</code>
-      <code>CRM_ACL_BAO_ACL</code>
-      <code>CRM_ACL_BAO_ACL</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/BAO/ACL.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_ACL_DAO_ACL</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/BAO/Cache.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_ACL_DAO_Cache</code>
-    </MissingDependency>
-  </file>
-  <file src="CRM/ACL/BAO/EntityRole.php">
-    <MissingDependency occurrences="1">
-      <code>CRM_ACL_DAO_EntityRole</code>
-    </MissingDependency>
-  </file>
+  
   <file src="CRM/ACL/DAO/ACL.php">
     <MissingDependency occurrences="1">
       <code>CRM_Core_DAO</code>
